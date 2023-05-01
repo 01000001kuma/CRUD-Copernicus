@@ -1,8 +1,5 @@
 
-# Prueba tecnica
-
-Technical interview Copernicus
-
+# Technical interview Copernicus
 
 ## Appendix
 
